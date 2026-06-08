@@ -21,6 +21,7 @@
 - HTML
 - CSS
 - JavaScript (Basics)
+- C++
 
 ## Current Goals
 
