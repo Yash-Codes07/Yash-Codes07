@@ -14,11 +14,12 @@
 
 ### Amazon Homepage Clone
 - HTML & CSS
-- Responsive UI Clone
+- Landing Page Design
 
 ### Netflix Clone
 - HTML & CSS
 - Landing Page Design
+- Responsive UI Clone
 
 ## Skills
 
