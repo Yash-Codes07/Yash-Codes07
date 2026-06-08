@@ -10,6 +10,16 @@
 - 🌱 Currently improving Statistics and Machine Learning
 - 🚀 Building projects to strengthen my portfolio
 
+## Projects
+
+### Amazon Homepage Clone
+- HTML & CSS
+- Responsive UI Clone
+
+### Netflix Clone
+- HTML & CSS
+- Landing Page Design
+
 ## Skills
 
 - Python
@@ -22,10 +32,3 @@
 - CSS
 - JavaScript (Basics)
 - C++
-
-## Current Goals
-
-- Solve DSA problems consistently
-- Build Data Science projects
-- Learn Machine Learning
-- Secure a Data Science internship
